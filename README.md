@@ -39,3 +39,9 @@ The `Aircraft` class provides the initial conditions for the engine cycle by spe
 5. **Nozzle:** Finally, the expanded gas is accelerated through the `Nozzle` class (used as the exit nozzle) to generate thrust.
 
 By creating separate classes for each component and defining clear connections between them, Jet CAP promotes code modularity, reusability, and maintainability. This structure also facilitates the analysis of different engine cycles and the optimization of performance parameters.
+
+
+## For ME643 Aircraft and Rocket Propulsion Students
+Future batches of the ME643 course taught by Prof. Dilip S. Sundaram can download the .exe file to get the software.
+This OneDrive link has the JetCAP.exe 
+**: https://onedrive.live.com/?id=AB594DA0FBDB58ED%21sa1e6f362b99e450481f64399ba2afaa2&cid=AB594DA0FBDB58ED** 
